@@ -12,6 +12,8 @@ The LitTech Discord bot is built using Autocode tool and node.js and leads you t
 The bot is deployed and maintained using Autocode.
 
 Commands:
+
+```
 hi lit-tech (or any similar variation): The bot responds back with the details of the home server it belongs to, i.e, "Lit-Tech Hub"
 
 bot-mention: Upon mentioning the bot, it responds back with Guild/Server information, who the bot is maintained by and where the source code of the bot can be found. 
@@ -19,6 +21,8 @@ bot-mention: Upon mentioning the bot, it responds back with Guild/Server informa
 /member-count: Upon mentioning this command, the bot responds back with the number of members in the server it currently is in, along with some other information.
 
 /lit-fact: Upon mentioning this command, the bot responds back with a list of websites containing amazing literary facts. 
+
+```
 
 ## Test examples:
 
