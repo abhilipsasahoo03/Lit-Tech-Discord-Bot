@@ -1,5 +1,5 @@
 # Lit-Tech-Discord-Bot
-A Discord Bot to bridge the gap between Literature and Tech.
+A Discord Bot built as a product of experiment to explore Discord Developer Portal and Autocode, with a motive to bridge the gap between Literature and Tech.
 
 
 ## About:
